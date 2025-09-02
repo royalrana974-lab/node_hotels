@@ -1,4 +1,5 @@
 const mongoose = require("mongoose");
+require('dotenv').config();
 
 // const mongoURL = "mongodb://localhost:27017/newhotels"
 const mongoURL = "mongodb+srv://royalrana974_db_user:mgsjaf226zLGfNYN@cluster0.nnom3if.mongodb.net/"
